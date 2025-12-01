@@ -4,7 +4,7 @@
 ![XChaCha20-Poly1305](https://img.shields.io/badge/XChaCha20--Poly1305-encrypt-orange)
 ![HMAC-SHA3-512](https://img.shields.io/badge/HMAC--SHA3--512-integrity-red)
 
-![](https://github.com/BaseCrypt/basecrypt.github.io/releases/download/1.1/base.png)
+![](https://github.com/BaseCrypt/basecrypt.github.io/releases/download/1.1/base.jpeg)
 
 [BaseCrypt](https://basecrypt.github.io) — **A small, fully client-side tool for strongly protected text encryption.**  
 
